@@ -1,0 +1,4 @@
+# Source 3D assets are too large for GitHub (OBJ is 344 MB); the optimized GLB lives in viewer/public.
+/Assets/
+
+.DS_Store

@@ -1,0 +1,776 @@
+[
+  {
+    "word": "I",
+    "start": 5.24,
+    "end": 5.72,
+    "probability": 0.05
+  },
+  {
+    "word": "could",
+    "start": 5.72,
+    "end": 5.84,
+    "probability": 0.62
+  },
+  {
+    "word": "spend",
+    "start": 5.84,
+    "end": 6.1,
+    "probability": 0.98
+  },
+  {
+    "word": "the",
+    "start": 6.1,
+    "end": 6.32,
+    "probability": 0.99
+  },
+  {
+    "word": "last",
+    "start": 6.32,
+    "end": 6.56,
+    "probability": 0.99
+  },
+  {
+    "word": "twenty",
+    "start": 6.56,
+    "end": 6.86,
+    "probability": 0.59
+  },
+  {
+    "word": "dollars",
+    "start": 6.86,
+    "end": 7.28,
+    "probability": 1.0
+  },
+  {
+    "word": "that",
+    "start": 7.28,
+    "end": 7.54,
+    "probability": 0.61
+  },
+  {
+    "word": "I",
+    "start": 7.54,
+    "end": 7.74,
+    "probability": 0.77
+  },
+  {
+    "word": "own",
+    "start": 7.74,
+    "end": 8.04,
+    "probability": 0.89
+  },
+  {
+    "word": "on",
+    "start": 8.04,
+    "end": 8.26,
+    "probability": 0.39
+  },
+  {
+    "word": "an",
+    "start": 8.26,
+    "end": 8.42,
+    "probability": 0.16
+  },
+  {
+    "word": "Uber",
+    "start": 8.42,
+    "end": 8.68,
+    "probability": 0.18
+  },
+  {
+    "word": "to",
+    "start": 8.68,
+    "end": 8.92,
+    "probability": 0.63
+  },
+  {
+    "word": "your",
+    "start": 8.92,
+    "end": 9.14,
+    "probability": 0.64
+  },
+  {
+    "word": "house",
+    "start": 9.14,
+    "end": 9.4,
+    "probability": 0.99
+  },
+  {
+    "word": "just",
+    "start": 9.4,
+    "end": 9.64,
+    "probability": 0.17
+  },
+  {
+    "word": "to",
+    "start": 9.64,
+    "end": 9.84,
+    "probability": 0.74
+  },
+  {
+    "word": "get",
+    "start": 9.84,
+    "end": 10.0,
+    "probability": 0.9
+  },
+  {
+    "word": "a",
+    "start": 10.0,
+    "end": 10.2,
+    "probability": 0.6
+  },
+  {
+    "word": "spot",
+    "start": 10.2,
+    "end": 10.34,
+    "probability": 0.82
+  },
+  {
+    "word": "along",
+    "start": 10.34,
+    "end": 10.7,
+    "probability": 0.33
+  },
+  {
+    "word": "Maybe",
+    "start": 10.7,
+    "end": 11.12,
+    "probability": 0.16
+  },
+  {
+    "word": "we",
+    "start": 11.12,
+    "end": 11.7,
+    "probability": 0.6
+  },
+  {
+    "word": "just",
+    "start": 11.7,
+    "end": 11.98,
+    "probability": 0.38
+  },
+  {
+    "word": "friends,",
+    "start": 11.98,
+    "end": 12.22,
+    "probability": 0.53
+  },
+  {
+    "word": "maybe",
+    "start": 12.34,
+    "end": 12.56,
+    "probability": 0.94
+  },
+  {
+    "word": "we",
+    "start": 12.56,
+    "end": 12.84,
+    "probability": 0.99
+  },
+  {
+    "word": "all",
+    "start": 12.84,
+    "end": 13.0,
+    "probability": 0.69
+  },
+  {
+    "word": "side",
+    "start": 13.0,
+    "end": 13.2,
+    "probability": 0.67
+  },
+  {
+    "word": "the",
+    "start": 13.2,
+    "end": 13.38,
+    "probability": 0.33
+  },
+  {
+    "word": "zone",
+    "start": 13.38,
+    "end": 13.66,
+    "probability": 0.61
+  },
+  {
+    "word": "I",
+    "start": 13.66,
+    "end": 13.92,
+    "probability": 0.86
+  },
+  {
+    "word": "can",
+    "start": 13.92,
+    "end": 14.06,
+    "probability": 0.75
+  },
+  {
+    "word": "never",
+    "start": 14.06,
+    "end": 14.34,
+    "probability": 0.98
+  },
+  {
+    "word": "really",
+    "start": 14.34,
+    "end": 14.66,
+    "probability": 0.99
+  },
+  {
+    "word": "tell",
+    "start": 14.66,
+    "end": 14.98,
+    "probability": 0.96
+  },
+  {
+    "word": "with",
+    "start": 14.98,
+    "end": 15.16,
+    "probability": 0.53
+  },
+  {
+    "word": "you,",
+    "start": 15.16,
+    "end": 15.26,
+    "probability": 0.98
+  },
+  {
+    "word": "so",
+    "start": 15.3,
+    "end": 15.46,
+    "probability": 0.98
+  },
+  {
+    "word": "baby",
+    "start": 15.46,
+    "end": 15.74,
+    "probability": 0.91
+  },
+  {
+    "word": "let",
+    "start": 15.74,
+    "end": 16.0,
+    "probability": 0.59
+  },
+  {
+    "word": "me",
+    "start": 16.0,
+    "end": 16.16,
+    "probability": 1.0
+  },
+  {
+    "word": "know",
+    "start": 16.16,
+    "end": 16.48,
+    "probability": 1.0
+  },
+  {
+    "word": "Tell",
+    "start": 16.48,
+    "end": 16.72,
+    "probability": 0.62
+  },
+  {
+    "word": "me,",
+    "start": 16.72,
+    "end": 16.9,
+    "probability": 1.0
+  },
+  {
+    "word": "you",
+    "start": 17.08,
+    "end": 17.2,
+    "probability": 0.56
+  },
+  {
+    "word": "started",
+    "start": 17.2,
+    "end": 17.52,
+    "probability": 0.52
+  },
+  {
+    "word": "to",
+    "start": 17.52,
+    "end": 17.76,
+    "probability": 0.34
+  },
+  {
+    "word": "want",
+    "start": 17.76,
+    "end": 17.88,
+    "probability": 0.58
+  },
+  {
+    "word": "to",
+    "start": 17.88,
+    "end": 18.02,
+    "probability": 0.86
+  },
+  {
+    "word": "take",
+    "start": 18.02,
+    "end": 18.18,
+    "probability": 0.19
+  },
+  {
+    "word": "it",
+    "start": 18.18,
+    "end": 18.46,
+    "probability": 0.49
+  },
+  {
+    "word": "easy,",
+    "start": 18.46,
+    "end": 18.56,
+    "probability": 0.6
+  },
+  {
+    "word": "hurt",
+    "start": 18.56,
+    "end": 18.8,
+    "probability": 0.4
+  },
+  {
+    "word": "my",
+    "start": 18.8,
+    "end": 19.12,
+    "probability": 0.93
+  },
+  {
+    "word": "feelings",
+    "start": 19.12,
+    "end": 19.54,
+    "probability": 0.27
+  },
+  {
+    "word": "Need",
+    "start": 19.54,
+    "end": 20.26,
+    "probability": 0.34
+  },
+  {
+    "word": "somebody",
+    "start": 20.26,
+    "end": 20.54,
+    "probability": 0.72
+  },
+  {
+    "word": "to",
+    "start": 20.54,
+    "end": 21.02,
+    "probability": 0.85
+  },
+  {
+    "word": "support",
+    "start": 21.02,
+    "end": 21.28,
+    "probability": 0.05
+  },
+  {
+    "word": "you,",
+    "start": 21.28,
+    "end": 21.48,
+    "probability": 0.64
+  },
+  {
+    "word": "cause",
+    "start": 21.58,
+    "end": 21.64,
+    "probability": 0.27
+  },
+  {
+    "word": "I",
+    "start": 21.64,
+    "end": 21.96,
+    "probability": 0.12
+  },
+  {
+    "word": "love",
+    "start": 21.96,
+    "end": 22.0,
+    "probability": 0.37
+  },
+  {
+    "word": "you",
+    "start": 22.0,
+    "end": 22.32,
+    "probability": 0.88
+  },
+  {
+    "word": "Tell",
+    "start": 22.8,
+    "end": 23.04,
+    "probability": 0.38
+  },
+  {
+    "word": "me",
+    "start": 23.04,
+    "end": 23.3,
+    "probability": 1.0
+  },
+  {
+    "word": "it",
+    "start": 23.3,
+    "end": 23.54,
+    "probability": 0.4
+  },
+  {
+    "word": "all",
+    "start": 23.54,
+    "end": 23.7,
+    "probability": 0.8
+  },
+  {
+    "word": "would",
+    "start": 23.7,
+    "end": 23.88,
+    "probability": 0.24
+  },
+  {
+    "word": "be",
+    "start": 23.88,
+    "end": 24.04,
+    "probability": 0.99
+  },
+  {
+    "word": "just",
+    "start": 24.04,
+    "end": 24.32,
+    "probability": 0.78
+  },
+  {
+    "word": "fine,",
+    "start": 24.32,
+    "end": 24.78,
+    "probability": 0.85
+  },
+  {
+    "word": "I've",
+    "start": 24.8,
+    "end": 25.06,
+    "probability": 0.42
+  },
+  {
+    "word": "got",
+    "start": 25.06,
+    "end": 25.32,
+    "probability": 0.91
+  },
+  {
+    "word": "the",
+    "start": 25.32,
+    "end": 25.5,
+    "probability": 0.35
+  },
+  {
+    "word": "power",
+    "start": 25.5,
+    "end": 26.02,
+    "probability": 0.15
+  },
+  {
+    "word": "for",
+    "start": 26.02,
+    "end": 26.34,
+    "probability": 0.97
+  },
+  {
+    "word": "you",
+    "start": 26.34,
+    "end": 26.5,
+    "probability": 0.94
+  },
+  {
+    "word": "to",
+    "start": 26.5,
+    "end": 26.68,
+    "probability": 0.35
+  },
+  {
+    "word": "live",
+    "start": 26.68,
+    "end": 27.38,
+    "probability": 0.49
+  },
+  {
+    "word": "Now",
+    "start": 27.38,
+    "end": 28.16,
+    "probability": 0.09
+  },
+  {
+    "word": "I'm",
+    "start": 28.16,
+    "end": 28.54,
+    "probability": 0.91
+  },
+  {
+    "word": "tearing",
+    "start": 28.54,
+    "end": 28.84,
+    "probability": 0.89
+  },
+  {
+    "word": "it",
+    "start": 28.84,
+    "end": 29.18,
+    "probability": 0.97
+  },
+  {
+    "word": "in",
+    "start": 29.18,
+    "end": 29.32,
+    "probability": 0.42
+  },
+  {
+    "word": "parts",
+    "start": 29.32,
+    "end": 29.5,
+    "probability": 0.66
+  },
+  {
+    "word": "to",
+    "start": 29.5,
+    "end": 29.64,
+    "probability": 0.75
+  },
+  {
+    "word": "find",
+    "start": 29.64,
+    "end": 29.9,
+    "probability": 0.99
+  },
+  {
+    "word": "out",
+    "start": 29.9,
+    "end": 30.1,
+    "probability": 1.0
+  },
+  {
+    "word": "if",
+    "start": 30.1,
+    "end": 30.26,
+    "probability": 0.89
+  },
+  {
+    "word": "I",
+    "start": 30.26,
+    "end": 30.36,
+    "probability": 0.98
+  },
+  {
+    "word": "got",
+    "start": 30.36,
+    "end": 30.58,
+    "probability": 0.82
+  },
+  {
+    "word": "a",
+    "start": 30.58,
+    "end": 30.72,
+    "probability": 0.96
+  },
+  {
+    "word": "shot",
+    "start": 30.72,
+    "end": 31.04,
+    "probability": 1.0
+  },
+  {
+    "word": "I'm",
+    "start": 31.04,
+    "end": 31.44,
+    "probability": 0.83
+  },
+  {
+    "word": "plucking",
+    "start": 31.44,
+    "end": 31.72,
+    "probability": 0.72
+  },
+  {
+    "word": "petals,",
+    "start": 31.72,
+    "end": 32.12,
+    "probability": 0.91
+  },
+  {
+    "word": "did",
+    "start": 32.2,
+    "end": 32.3,
+    "probability": 0.58
+  },
+  {
+    "word": "she",
+    "start": 32.3,
+    "end": 32.46,
+    "probability": 0.98
+  },
+  {
+    "word": "love",
+    "start": 32.46,
+    "end": 32.68,
+    "probability": 0.99
+  },
+  {
+    "word": "me,",
+    "start": 32.68,
+    "end": 32.86,
+    "probability": 1.0
+  },
+  {
+    "word": "did",
+    "start": 32.86,
+    "end": 32.98,
+    "probability": 0.99
+  },
+  {
+    "word": "she",
+    "start": 32.98,
+    "end": 33.16,
+    "probability": 1.0
+  },
+  {
+    "word": "love",
+    "start": 33.16,
+    "end": 33.38,
+    "probability": 1.0
+  },
+  {
+    "word": "me",
+    "start": 33.38,
+    "end": 33.58,
+    "probability": 0.99
+  },
+  {
+    "word": "not",
+    "start": 33.58,
+    "end": 33.84,
+    "probability": 0.63
+  },
+  {
+    "word": "My",
+    "start": 33.84,
+    "end": 34.34,
+    "probability": 0.08
+  },
+  {
+    "word": "hypothesis",
+    "start": 34.34,
+    "end": 34.9,
+    "probability": 0.99
+  },
+  {
+    "word": "is",
+    "start": 34.9,
+    "end": 35.28,
+    "probability": 0.67
+  },
+  {
+    "word": "that",
+    "start": 35.28,
+    "end": 35.36,
+    "probability": 0.35
+  },
+  {
+    "word": "you",
+    "start": 35.36,
+    "end": 35.52,
+    "probability": 0.68
+  },
+  {
+    "word": "and",
+    "start": 35.52,
+    "end": 35.66,
+    "probability": 0.5
+  },
+  {
+    "word": "I",
+    "start": 35.66,
+    "end": 35.96,
+    "probability": 0.64
+  },
+  {
+    "word": "will",
+    "start": 35.96,
+    "end": 36.22,
+    "probability": 0.31
+  },
+  {
+    "word": "just",
+    "start": 36.22,
+    "end": 36.36,
+    "probability": 0.06
+  },
+  {
+    "word": "fly",
+    "start": 36.36,
+    "end": 36.68,
+    "probability": 0.73
+  },
+  {
+    "word": "Did",
+    "start": 36.68,
+    "end": 37.08,
+    "probability": 0.09
+  },
+  {
+    "word": "I",
+    "start": 37.08,
+    "end": 37.32,
+    "probability": 0.98
+  },
+  {
+    "word": "ever",
+    "start": 37.32,
+    "end": 37.52,
+    "probability": 0.09
+  },
+  {
+    "word": "write",
+    "start": 37.52,
+    "end": 37.68,
+    "probability": 0.24
+  },
+  {
+    "word": "me",
+    "start": 37.68,
+    "end": 37.88,
+    "probability": 0.39
+  },
+  {
+    "word": "a",
+    "start": 37.88,
+    "end": 38.04,
+    "probability": 0.64
+  },
+  {
+    "word": "letter",
+    "start": 38.04,
+    "end": 38.4,
+    "probability": 0.95
+  },
+  {
+    "word": "in",
+    "start": 38.4,
+    "end": 38.68,
+    "probability": 0.36
+  },
+  {
+    "word": "my",
+    "start": 38.68,
+    "end": 38.86,
+    "probability": 0.93
+  },
+  {
+    "word": "hundred",
+    "start": 38.86,
+    "end": 39.12,
+    "probability": 0.13
+  },
+  {
+    "word": "dollars?",
+    "start": 39.12,
+    "end": 39.46,
+    "probability": 0.17
+  }
+]
